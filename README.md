@@ -13,3 +13,5 @@ aproximate value of sin function by maclaurin serie.
 find greatest commmon divisor by euclidian method.
 ## gaussian_elimination.c
 find answer of linear system n variables n equations. 
+## pi_leibniz.c
+approximate value of pi bby using leibniz formula
